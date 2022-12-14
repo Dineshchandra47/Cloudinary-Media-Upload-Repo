@@ -1,2 +1,2 @@
 # Cloudinary-Media-Upload-Repo
-Cloudinary Node Sample Projects
+Cloudinary Node Sample Project
